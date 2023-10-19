@@ -4,7 +4,6 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import SignInSide from './pages/SignInSide';
 import Blogs from './pages/Blog';
-import Root from './routes/root'
 import {
   createBrowserRouter,
   RouterProvider,
